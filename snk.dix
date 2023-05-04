@@ -1,0 +1,27 @@
+<dictionary>
+<alphabet>
+abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ
+</alphabet>
+<sdefs>
+<sdef n="snk" c="cat=sankhya"/>
+</sdefs>
+<pardefs>
+<pardef n="Sawa/_snk">
+        <e><p>
+                <l></l>
+                <r><s n="snk"/></r>
+        </p></e>
+
+</pardef>
+</pardefs>
+<section id="main" type="standard">
+<e lm="Sawa"><i>Sawa</i><par n="Sawa/_snk"/></e>
+<e lm="eVMtu"><i>eVMtu</i><par n="Sawa/_snk"/></e>
+<e lm="aRta"><i>aRta</i><par n="Sawa/_snk"/></e>
+<e lm="aRtAxaSa"><i>aRtAxaSa</i><par n="Sawa/_snk"/></e>
+<e lm="eka"><i>eka</i><par n="Sawa/_snk"/></e>
+<e lm="bawwIsa"><i>bawwIsa</i><par n="Sawa/_snk"/></e>
+<e lm="elYu"><i>elYu</i><par n="Sawa/_snk"/></e>
+<e lm="oVMxu"><i>oVMxu</i><par n="Sawa/_snk"/></e>
+</section>
+</dictionary>

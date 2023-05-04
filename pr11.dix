@@ -1,0 +1,862 @@
+<dictionary>
+<alphabet>
+abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ
+</alphabet>
+<sdefs>
+<sdef n="pn" c="cat=pronoun"/>
+<sdef n="m" c="gender=masculine"/>
+<sdef n="f" c="gender=feminine"/>
+<sdef n="o" c="gender=other"/>
+<sdef n="sg" c="number=singular"/>
+<sdef n="pl" c="number=plural"/>
+<sdef n="nom" c="case=nominative"/>
+<sdef n="acc" c="case=accusative"/>
+<sdef n="ins" c="case=instrumental"/>
+<sdef n="dat" c="case=dative"/>
+<sdef n="abl" c="case=ablative"/>
+<sdef n="gen" c="case=genitive"/>
+<sdef n="loc" c="case=locative"/>
+<sdef n="voc" c="case=vocative"/>
+</sdefs>
+<pardefs>
+<pardef n="n/Anu_pn">
+        <e><p>
+                <l>Anu</l>
+                <r>Anu<s n="pn"/><s n="sg"/><s n="nom"/><s n="o"/></r>
+        </p></e>
+		<e><p>
+                <l>Avu</l>
+                <r>Anu<s n="pn"/><s n="pl"/><s n="nom"/><s n="o"/></r>
+        </p></e>
+        <e><p>
+                <l>annannu</l>
+                <r>Anu<s n="pn"/><s n="sg"/><s n="acc"/><s n="o"/></r>
+        </p></e>
+		<e><p>
+                <l>ammannu</l>
+                <r>Anu<s n="pn"/><s n="pl"/><s n="acc"/><s n="o"/></r>
+        </p></e>
+        <e><p>
+                <l>anniMxa</l>
+                <r>Anu<s n="pn"/><s n="sg"/><s n="ins"/><s n="o"/></r>
+        </p></e>
+		<e><p>
+                <l>ammiMxa</l>
+                <r>Anu<s n="pn"/><s n="pl"/><s n="ins"/><s n="o"/></r>
+        </p></e>
+        <e><p>
+                <l>anageV</l>
+				<r>Anu<s n="pn"/><s n="sg"/><s n="dat"/><s n="o"/></r>
+		</p></e>
+		<e><p>
+                <l>anagAgi</l>
+				<r>Anu<s n="pn"/><s n="sg"/><s n="dat"/><s n="o"/></r>
+		</p></e>
+		<e><p>
+                <l>anagoskara</l>
+				<r>Anu<s n="pn"/><s n="sg"/><s n="dat"/><s n="o"/></r>
+		</p></e>
+        <e><p>
+                <l>amageV</l>
+				<r>Anu<s n="pn"/><s n="pl"/><s n="dat"/><s n="o"/></r>
+		</p></e>		
+		<e><p>
+                <l>amagAgi</l>
+				<r>Anu<s n="pn"/><s n="pl"/><s n="dat"/><s n="o"/></r>
+		</p></e>
+		<e><p>
+                <l>amagoskara</l>
+				<r>Anu<s n="pn"/><s n="pl"/><s n="dat"/><s n="o"/></r>
+		</p></e>
+		<e><p>
+                <l>anna deVseVyiMxa</l>
+                <r>Anu<s n="pn"/><s n="sg"/><s n="abl"/><s n="o"/></r>
+        </p></e>
+		<e><p>
+                <l>anniMxa</l>
+                <r>Anu<s n="pn"/><s n="sg"/><s n="abl"/><s n="o"/></r>
+        </p></e>
+        <e><p>
+                <l>amma deVseVyiMxa</l>
+                <r>Anu<s n="pn"/><s n="pl"/><s n="abl"/><s n="o"/></r>
+        </p></e>
+		<e><p>
+                <l>ammiMxa</l>
+                <r>Anu<s n="pn"/><s n="pl"/><s n="abl"/><s n="o"/></r>
+        </p></e>
+		<e><p>
+                <l>anna</l>
+                <r>Anu<s n="pn"/><s n="sg"/><s n="gen"/><s n="o"/></r>
+        </p></e>
+        <e><p>
+                <l>amma</l>
+                <r>Anu<s n="pn"/><s n="pl"/><s n="gen"/><s n="o"/></r>
+        </p></e>
+		<e><p>
+                <l>annalli</l>
+                <r>Anu<s n="pn"/><s n="sg"/><s n="loc"/><s n="o"/></r>
+        </p></e>
+        <e><p>
+                <l>ammalli</l>
+                <r>Anu<s n="pn"/><s n="pl"/><s n="loc"/><s n="o"/></r>
+        </p></e>		
+        <e><p>
+                <l>Ane</l>
+                <r>Anu<s n="pn"/><s n="sg"/><s n="voc"/><s n="o"/></r>
+        </p></e>
+		<e><p>
+                <l>Ave</l>
+                <r>Anu<s n="pn"/><s n="pl"/><s n="voc"/><s n="o"/></r>
+        </p></e>
+</pardef>
+<pardef n="n/Inu_pn">
+        <e><p>
+                <l>Inu</l>
+                <r>Inu<s n="pn"/><s n="sg"/><s n="nom"/><s n="o"/></r>
+        </p></e>
+		<e><p>
+                <l>Ivu</l>
+                <r>Inu<s n="pn"/><s n="pl"/><s n="nom"/><s n="o"/></r>
+        </p></e>
+        <e><p>
+                <l>innannu</l>
+                <r>Inu<s n="pn"/><s n="sg"/><s n="acc"/><s n="o"/></r>
+        </p></e>
+		<e><p>
+                <l>immannu</l>
+                <r>Inu<s n="pn"/><s n="pl"/><s n="acc"/><s n="o"/></r>
+        </p></e>
+        <e><p>
+                <l>inniMxa</l>
+                <r>Inu<s n="pn"/><s n="sg"/><s n="ins"/><s n="o"/></r>
+        </p></e>
+		<e><p>
+                <l>immiMxa</l>
+                <r>Inu<s n="pn"/><s n="pl"/><s n="ins"/><s n="o"/></r>
+        </p></e>
+        <e><p>
+                <l>inageV</l>
+				<r>Inu<s n="pn"/><s n="sg"/><s n="dat"/><s n="o"/></r>
+		</p></e>
+		<e><p>
+                <l>inagAgi</l>
+				<r>Inu<s n="pn"/><s n="sg"/><s n="dat"/><s n="o"/></r>
+		</p></e>
+		<e><p>
+                <l>inagoskara</l>
+				<r>Inu<s n="pn"/><s n="sg"/><s n="dat"/><s n="o"/></r>
+		</p></e>		
+        <e><p>
+                <l>imageV</l>
+				<r>Inu<s n="pn"/><s n="pl"/><s n="dat"/><s n="o"/></r>
+		</p></e>
+		<e><p>
+                <l>imagAgi</l>
+				<r>Inu<s n="pn"/><s n="pl"/><s n="dat"/><s n="o"/></r>
+		</p></e>
+		<e><p>
+                <l>imagoskara</l>
+				<r>Inu<s n="pn"/><s n="pl"/><s n="dat"/><s n="o"/></r>
+		</p></e>
+		<e><p>
+                <l>inna deVseVyiMxa</l>
+                <r>Inu<s n="pn"/><s n="sg"/><s n="abl"/><s n="o"/></r>
+        </p></e>
+		<e><p>
+                <l>inniniMxa</l>
+                <r>Inu<s n="pn"/><s n="sg"/><s n="abl"/><s n="o"/></r>
+        </p></e>
+        <e><p>
+                <l>imma deVseVyiMxa</l>
+                <r>Inu<s n="pn"/><s n="pl"/><s n="abl"/><s n="o"/></r>
+        </p></e>
+		<e><p>
+                <l>immiMxa</l>
+                <r>Inu<s n="pn"/><s n="pl"/><s n="abl"/><s n="o"/></r>
+        </p></e>
+		<e><p>
+                <l>inna</l>
+                <r>Inu<s n="pn"/><s n="sg"/><s n="gen"/><s n="o"/></r>
+        </p></e>
+        <e><p>
+                <l>imma</l>
+                <r>Inu<s n="pn"/><s n="pl"/><s n="gen"/><s n="o"/></r>
+        </p></e>
+		<e><p>
+                <l>innalli</l>
+                <r>Inu<s n="pn"/><s n="sg"/><s n="loc"/><s n="o"/></r>
+        </p></e>
+        <e><p>
+                <l>immalli</l>
+                <r>Inu<s n="pn"/><s n="pl"/><s n="loc"/><s n="o"/></r>
+        </p></e>		
+        <e><p>
+                <l>Ine</l>
+                <r>Inu<s n="pn"/><s n="sg"/><s n="voc"/><s n="o"/></r>
+        </p></e>
+		<e><p>
+                <l>Ive</l>
+                <r>Inu<s n="pn"/><s n="pl"/><s n="voc"/><s n="o"/></r>
+        </p></e>
+</pardef>
+<pardef n="a/xu_pn">
+        <e><p>
+                <l>xu</l>
+                <r>xu<s n="pn"/><s n="sg"/><s n="nom"/><s n="o"/></r>
+        </p></e>
+		<e><p>
+                <l>vu</l>
+                <r>xu<s n="pn"/><s n="pl"/><s n="nom"/><s n="o"/></r>
+        </p></e>
+        <e><p>
+                <l>xannu</l>
+                <r>xu<s n="pn"/><s n="sg"/><s n="acc"/><s n="o"/></r>
+        </p></e>
+		<e><p>
+                <l>vannu</l>
+                <r>xu<s n="pn"/><s n="pl"/><s n="acc"/><s n="o"/></r>
+        </p></e>
+		<e><p>
+                <l>vugalYannu</l>
+                <r>xu<s n="pn"/><s n="pl"/><s n="acc"/><s n="o"/></r>
+        </p></e>
+        <e><p>
+                <l>xariMxa</l>
+                <r>xu<s n="pn"/><s n="sg"/><s n="ins"/><s n="o"/></r>
+        </p></e>
+		<e><p>
+                <l>vugalYiMxa</l>
+                <r>xu<s n="pn"/><s n="pl"/><s n="ins"/><s n="o"/></r>
+        </p></e>
+        <e><p>
+                <l>xakkeV</l>
+				<r>xu<s n="pn"/><s n="sg"/><s n="dat"/><s n="o"/></r>
+		</p></e>	
+		<e><p>
+                <l>xakkAgi</l>
+				<r>xu<s n="pn"/><s n="sg"/><s n="dat"/><s n="o"/></r>
+		</p></e>
+		<e><p>
+                <l>xakkoskara</l>
+				<r>xu<s n="pn"/><s n="sg"/><s n="dat"/><s n="o"/></r>
+		</p></e>
+		
+        <e><p>
+                <l>vugalYigeV</l>
+				<r>xu<s n="pn"/><s n="pl"/><s n="dat"/><s n="o"/></r>
+		</p></e>
+		<e><p>
+                <l>vugalYigAgi</l>
+				<r>xu<s n="pn"/><s n="pl"/><s n="dat"/><s n="o"/></r>
+		</p></e>
+		<e><p>
+                <l>vugalYigoskara</l>
+				<r>xu<s n="pn"/><s n="pl"/><s n="dat"/><s n="o"/></r>
+		</p></e>
+		
+		<e><p>
+                <l>xara deVseVyiMxa</l>
+                <r>xu<s n="pn"/><s n="sg"/><s n="abl"/><s n="o"/></r>
+        </p></e>
+		<e><p>
+                <l>xariMxa</l>
+                <r>xu<s n="pn"/><s n="sg"/><s n="abl"/><s n="o"/></r>
+        </p></e>
+        <e><p>
+                <l>vugalYa deVseVyiMxa</l>
+                <r>xu<s n="pn"/><s n="pl"/><s n="abl"/><s n="o"/></r>
+        </p></e>
+		<e><p>
+                <l>vugalYiMxa</l>
+                <r>xu<s n="pn"/><s n="pl"/><s n="abl"/><s n="o"/></r>
+        </p></e>
+		<e><p>
+                <l>xara</l>
+                <r>xu<s n="pn"/><s n="sg"/><s n="gen"/><s n="o"/></r>
+        </p></e>
+        <e><p>
+                <l>vugalYa</l>
+                <r>xu<s n="pn"/><s n="pl"/><s n="gen"/><s n="o"/></r>
+        </p></e>
+		<e><p>
+                <l>xaralli</l>
+                <r>xu<s n="pn"/><s n="sg"/><s n="loc"/><s n="o"/></r>
+        </p></e>
+        <e><p>
+                <l>vugalYalli</l>
+                <r>xu<s n="pn"/><s n="pl"/><s n="loc"/><s n="o"/></r>
+        </p></e>		
+        <e><p>
+                <l>xe</l>
+                <r>xu<s n="pn"/><s n="sg"/><s n="voc"/><s n="o"/></r>
+        </p></e>
+		<e><p>
+                <l>vugalYe</l>
+                <r>xu<s n="pn"/><s n="pl"/><s n="voc"/><s n="o"/></r>
+        </p></e>
+</pardef>
+<pardef n="i/xu_pn">
+        <e><p>
+                <l>xu</l>
+                <r>xu<s n="pn"/><s n="sg"/><s n="nom"/><s n="o"/></r>
+        </p></e>
+		<e><p>
+                <l>vu</l>
+                <r>xu<s n="pn"/><s n="pl"/><s n="nom"/><s n="o"/></r>
+        </p></e>
+        <e><p>
+                <l>xannu</l>
+                <r>xu<s n="pn"/><s n="sg"/><s n="acc"/><s n="o"/></r>
+        </p></e>
+		<e><p>
+                <l>vannu</l>
+                <r>xu<s n="pn"/><s n="pl"/><s n="acc"/><s n="o"/></r>
+        </p></e>
+		<e><p>
+                <l>vugalYannu</l>
+                <r>xu<s n="pn"/><s n="pl"/><s n="acc"/><s n="o"/></r>
+        </p></e>
+        <e><p>
+                <l>xariMxa</l>
+                <r>xu<s n="pn"/><s n="sg"/><s n="ins"/><s n="o"/></r>
+        </p></e>
+		<e><p>
+                <l>vugalYiMxa</l>
+                <r>xu<s n="pn"/><s n="pl"/><s n="ins"/><s n="o"/></r>
+        </p></e>
+        <e><p>
+                <l>xakkeV</l>
+				<r>xu<s n="pn"/><s n="sg"/><s n="dat"/><s n="o"/></r>
+		</p></e>
+		<e><p>
+                <l>xakkAgi</l>
+				<r>xu<s n="pn"/><s n="sg"/><s n="dat"/><s n="o"/></r>
+		</p></e>
+		<e><p>
+                <l>xakkoskara</l>
+				<r>xu<s n="pn"/><s n="sg"/><s n="dat"/><s n="o"/></r>
+		</p></e>
+		
+        <e><p>
+                <l>vugalYigeV</l>
+				<r>xu<s n="pn"/><s n="pl"/><s n="dat"/><s n="o"/></r>
+		</p></e>
+		<e><p>
+                <l>vugalYigAgi</l>
+				<r>xu<s n="pn"/><s n="pl"/><s n="dat"/><s n="o"/></r>
+		</p></e>
+		<e><p>
+                <l>vugalYigoskara</l>
+				<r>xu<s n="pn"/><s n="pl"/><s n="dat"/><s n="o"/></r>
+		</p></e>
+		<e><p>
+                <l>xara deVseVyiMxa</l>
+                <r>xu<s n="pn"/><s n="sg"/><s n="abl"/><s n="o"/></r>
+        </p></e>
+		<e><p>
+                <l>xariMxa</l>
+                <r>xu<s n="pn"/><s n="sg"/><s n="abl"/><s n="o"/></r>
+        </p></e>
+        <e><p>
+                <l>vugalYa deVseVyiMxa</l>
+                <r>xu<s n="pn"/><s n="pl"/><s n="abl"/><s n="o"/></r>
+        </p></e>
+		<e><p>
+                <l>vugalYiMxa</l>
+                <r>xu<s n="pn"/><s n="pl"/><s n="abl"/><s n="o"/></r>
+        </p></e>
+		<e><p>
+                <l>xara</l>
+                <r>xu<s n="pn"/><s n="sg"/><s n="gen"/><s n="o"/></r>
+        </p></e>
+        <e><p>
+                <l>vugalYa</l>
+                <r>xu<s n="pn"/><s n="pl"/><s n="gen"/><s n="o"/></r>
+        </p></e>
+		<e><p>
+                <l>xaralli</l>
+                <r>xu<s n="pn"/><s n="sg"/><s n="loc"/><s n="o"/></r>
+        </p></e>
+        <e><p>
+                <l>vugalYalli</l>
+                <r>xu<s n="pn"/><s n="pl"/><s n="loc"/><s n="o"/></r>
+        </p></e>		
+        <e><p>
+                <l>xe</l>
+                <r>xu<s n="pn"/><s n="sg"/><s n="voc"/><s n="o"/></r>
+        </p></e>
+		<e><p>
+                <l>vugalYe</l>
+                <r>xu<s n="pn"/><s n="pl"/><s n="voc"/><s n="o"/></r>
+        </p></e>
+</pardef>
+<pardef n="ava/nu_pn">
+        <e><p>
+                <l>nu</l>
+                <r>nu<s n="pn"/><s n="sg"/><s n="nom"/><s n="m"/></r>
+        </p></e>
+		<e><p>
+                <l>ru</l>
+                <r>nu<s n="pn"/><s n="pl"/><s n="nom"/><s n="m"/></r>
+        </p></e>
+        <e><p>
+                <l>nannu</l>
+                <r>nu<s n="pn"/><s n="sg"/><s n="acc"/><s n="m"/></r>
+        </p></e>
+		<e><p>
+                <l>rannu</l>
+                <r>nu<s n="pn"/><s n="pl"/><s n="acc"/><s n="m"/></r>
+        </p></e>
+        <e><p>
+                <l>niMxa</l>
+                <r>nu<s n="pn"/><s n="sg"/><s n="ins"/><s n="m"/></r>
+        </p></e>
+		<e><p>
+                <l>riMxa</l>
+                <r>nu<s n="pn"/><s n="pl"/><s n="ins"/><s n="m"/></r>
+        </p></e>
+        <e><p>
+                <l>nigeV</l>
+				<r>nu<s n="pn"/><s n="sg"/><s n="dat"/><s n="m"/></r>
+		</p></e>
+		<e><p>
+                <l>nigAgi</l>
+				<r>nu<s n="pn"/><s n="sg"/><s n="dat"/><s n="m"/></r>
+		</p></e>
+		<e><p>
+                <l>nigoskara</l>
+				<r>nu<s n="pn"/><s n="sg"/><s n="dat"/><s n="m"/></r>
+		</p></e>
+		<e><p>
+                <l>rigeV</l>
+				<r>nu<s n="pn"/><s n="pl"/><s n="dat"/><s n="m"/></r>
+		</p></e>
+		<e><p>
+                <l>rigAgi</l>
+				<r>nu<s n="pn"/><s n="pl"/><s n="dat"/><s n="m"/></r>
+		</p></e>
+		<e><p>
+                <l>rigoskara</l>
+				<r>nu<s n="pn"/><s n="pl"/><s n="dat"/><s n="m"/></r>
+		</p></e>		
+		<e><p>
+                <l>na deVseVyiMxa</l>
+                <r>nu<s n="pn"/><s n="sg"/><s n="abl"/><s n="m"/></r>
+        </p></e>
+		<e><p>
+                <l>niMxa</l>
+                <r>nu<s n="pn"/><s n="sg"/><s n="abl"/><s n="m"/></r>
+        </p></e>
+        <e><p>
+                <l>ra deVseVyiMxa</l>
+                <r>nu<s n="pn"/><s n="pl"/><s n="abl"/><s n="m"/></r>
+        </p></e>
+		<e><p>
+                <l>riMxa</l>
+                <r>nu<s n="pn"/><s n="pl"/><s n="abl"/><s n="m"/></r>
+        </p></e>
+		<e><p>
+                <l>na</l>
+                <r>nu<s n="pn"/><s n="sg"/><s n="gen"/><s n="m"/></r>
+        </p></e>
+        <e><p>
+                <l>ra</l>
+                <r>nu<s n="pn"/><s n="pl"/><s n="gen"/><s n="m"/></r>
+        </p></e>
+		<e><p>
+                <l>nalli</l>
+                <r>nu<s n="pn"/><s n="sg"/><s n="loc"/><s n="m"/></r>
+        </p></e>
+        <e><p>
+                <l>ralli</l>
+                <r>nu<s n="pn"/><s n="pl"/><s n="loc"/><s n="m"/></r>
+        </p></e>		
+        <e><p>
+                <l>ne</l>
+                <r>nu<s n="pn"/><s n="sg"/><s n="voc"/><s n="m"/></r>
+        </p></e>
+		<e><p>
+                <l>re</l>
+                <r>nu<s n="pn"/><s n="pl"/><s n="voc"/><s n="m"/></r>
+        </p></e>
+</pardef>
+<pardef n="iva/nu_pn">
+        <e><p>
+                <l>nu</l>
+                <r>nu<s n="pn"/><s n="sg"/><s n="nom"/><s n="m"/></r>
+        </p></e>
+		<e><p>
+                <l>ru</l>
+                <r>nu<s n="pn"/><s n="pl"/><s n="nom"/><s n="m"/></r>
+        </p></e>
+        <e><p>
+                <l>nannu</l>
+                <r>nu<s n="pn"/><s n="sg"/><s n="acc"/><s n="m"/></r>
+        </p></e>
+		<e><p>
+                <l>rannu</l>
+                <r>nu<s n="pn"/><s n="pl"/><s n="acc"/><s n="m"/></r>
+        </p></e>
+        <e><p>
+                <l>niMxa</l>
+                <r>nu<s n="pn"/><s n="sg"/><s n="ins"/><s n="m"/></r>
+        </p></e>
+		<e><p>
+                <l>riMxa</l>
+                <r>nu<s n="pn"/><s n="pl"/><s n="ins"/><s n="m"/></r>
+        </p></e>
+        <e><p>
+                <l>nigeV</l>
+				<r>nu<s n="pn"/><s n="sg"/><s n="dat"/><s n="m"/></r>
+		</p></e>
+		<e><p>
+                <l>nigAgi</l>
+				<r>nu<s n="pn"/><s n="sg"/><s n="dat"/><s n="m"/></r>
+		</p></e>
+		<e><p>
+                <l>nigoskara</l>
+				<r>nu<s n="pn"/><s n="sg"/><s n="dat"/><s n="m"/></r>
+		</p></e>
+		<e><p>
+                <l>rigeV</l>
+				<r>nu<s n="pn"/><s n="pl"/><s n="dat"/><s n="m"/></r>
+		</p></e>
+		<e><p>
+                <l>rigAgi</l>
+				<r>nu<s n="pn"/><s n="pl"/><s n="dat"/><s n="m"/></r>
+		</p></e>
+		<e><p>
+                <l>rigoskara</l>
+				<r>nu<s n="pn"/><s n="pl"/><s n="dat"/><s n="m"/></r>
+		</p></e>				
+		
+		<e><p>
+                <l>na deVseVyiMxa</l>
+                <r>nu<s n="pn"/><s n="sg"/><s n="abl"/><s n="m"/></r>
+        </p></e>
+		<e><p>
+                <l>niMxa</l>
+                <r>nu<s n="pn"/><s n="sg"/><s n="abl"/><s n="m"/></r>
+        </p></e>
+        <e><p>
+                <l>ra deVseVyiMxa</l>
+                <r>nu<s n="pn"/><s n="pl"/><s n="abl"/><s n="m"/></r>
+        </p></e>
+		<e><p>
+                <l>riMxa</l>
+                <r>nu<s n="pn"/><s n="pl"/><s n="abl"/><s n="m"/></r>
+        </p></e>
+		<e><p>
+                <l>na</l>
+                <r>nu<s n="pn"/><s n="sg"/><s n="gen"/><s n="m"/></r>
+        </p></e>
+        <e><p>
+                <l>ra</l>
+                <r>nu<s n="pn"/><s n="pl"/><s n="gen"/><s n="m"/></r>
+        </p></e>
+		<e><p>
+                <l>nalli</l>
+                <r>nu<s n="pn"/><s n="sg"/><s n="loc"/><s n="m"/></r>
+        </p></e>
+        <e><p>
+                <l>ralli</l>
+                <r>nu<s n="pn"/><s n="pl"/><s n="loc"/><s n="m"/></r>
+        </p></e>		
+        <e><p>
+                <l>ne</l>
+                <r>nu<s n="pn"/><s n="sg"/><s n="voc"/><s n="m"/></r>
+        </p></e>
+		<e><p>
+                <l>re</l>
+                <r>nu<s n="pn"/><s n="pl"/><s n="voc"/><s n="m"/></r>
+        </p></e>
+</pardef>
+<pardef n="ava/lYu_pn">
+        <e><p>
+                <l>lYu</l>
+                <r>lYu<s n="pn"/><s n="sg"/><s n="nom"/><s n="f"/></r>
+        </p></e>
+		<e><p>
+                <l>ru</l>
+                <r>lYu<s n="pn"/><s n="pl"/><s n="nom"/><s n="f"/></r>
+        </p></e>
+        <e><p>
+                <l>lYannu</l>
+                <r>lYu<s n="pn"/><s n="sg"/><s n="acc"/><s n="f"/></r>
+        </p></e>
+		<e><p>
+                <l>rannu</l>
+                <r>lYu<s n="pn"/><s n="pl"/><s n="acc"/><s n="f"/></r>
+        </p></e>
+        <e><p>
+                <l>lYiMxa</l>
+                <r>lYu<s n="pn"/><s n="sg"/><s n="ins"/><s n="f"/></r>
+        </p></e>
+		<e><p>
+                <l>riMxa</l>
+                <r>lYu<s n="pn"/><s n="pl"/><s n="ins"/><s n="f"/></r>
+        </p></e>
+        <e><p>
+                <l>lYigeV</l>
+				<r>lYu<s n="pn"/><s n="sg"/><s n="dat"/><s n="f"/></r>
+		</p></e>
+		<e><p>
+                <l>lYigAgi</l>
+				<r>lYu<s n="pn"/><s n="sg"/><s n="dat"/><s n="f"/></r>
+		</p></e>
+		<e><p>
+                <l>lYigoskara</l>
+				<r>lYu<s n="pn"/><s n="sg"/><s n="dat"/><s n="f"/></r>
+		</p></e>		
+        <e><p>
+                <l>rigeV</l>
+				<r>lYu<s n="pn"/><s n="pl"/><s n="dat"/><s n="f"/></r>
+		</p></e>
+		<e><p>
+                <l>rigAgi</l>
+				<r>lYu<s n="pn"/><s n="pl"/><s n="dat"/><s n="f"/></r>
+		</p></e>
+		<e><p>
+                <l>rigoskara</l>
+				<r>lYu<s n="pn"/><s n="pl"/><s n="dat"/><s n="f"/></r>
+		</p></e>
+		<e><p>
+                <l>lYa deVseVyiMxa</l>
+                <r>lYu<s n="pn"/><s n="sg"/><s n="abl"/><s n="f"/></r>
+        </p></e>
+		<e><p>
+                <l>lYiMxa</l>
+                <r>lYu<s n="pn"/><s n="sg"/><s n="abl"/><s n="f"/></r>
+        </p></e>
+        <e><p>
+                <l>ra deVseVyiMxa</l>
+                <r>lYu<s n="pn"/><s n="pl"/><s n="abl"/><s n="f"/></r>
+        </p></e>
+		<e><p>
+                <l>riMxa</l>
+                <r>lYu<s n="pn"/><s n="pl"/><s n="abl"/><s n="f"/></r>
+        </p></e>
+		<e><p>
+                <l>lYa</l>
+                <r>lYu<s n="pn"/><s n="sg"/><s n="gen"/><s n="f"/></r>
+        </p></e>
+        <e><p>
+                <l>ra</l>
+                <r>lYu<s n="pn"/><s n="pl"/><s n="gen"/><s n="f"/></r>
+        </p></e>
+		<e><p>
+                <l>lYalli</l>
+                <r>lYu<s n="pn"/><s n="sg"/><s n="loc"/><s n="f"/></r>
+        </p></e>
+        <e><p>
+                <l>ralli</l>
+                <r>lYu<s n="pn"/><s n="pl"/><s n="loc"/><s n="f"/></r>
+        </p></e>		
+        <e><p>
+                <l>lYe</l>
+                <r>lYu<s n="pn"/><s n="sg"/><s n="voc"/><s n="f"/></r>
+        </p></e>
+		<e><p>
+                <l>re</l>
+                <r>nu<s n="pn"/><s n="pl"/><s n="voc"/><s n="f"/></r>
+        </p></e>
+</pardef>
+<pardef n="iva/lYu_pn">
+        <e><p>
+                <l>lYu</l>
+                <r>lYu<s n="pn"/><s n="sg"/><s n="nom"/><s n="f"/></r>
+        </p></e>
+		<e><p>
+                <l>ru</l>
+                <r>lYu<s n="pn"/><s n="pl"/><s n="nom"/><s n="f"/></r>
+        </p></e>
+        <e><p>
+                <l>lYannu</l>
+                <r>lYu<s n="pn"/><s n="sg"/><s n="acc"/><s n="f"/></r>
+        </p></e>
+		<e><p>
+                <l>rannu</l>
+                <r>lYu<s n="pn"/><s n="pl"/><s n="acc"/><s n="f"/></r>
+        </p></e>
+        <e><p>
+                <l>lYiMxa</l>
+                <r>lYu<s n="pn"/><s n="sg"/><s n="ins"/><s n="f"/></r>
+        </p></e>
+		<e><p>
+                <l>riMxa</l>
+                <r>lYu<s n="pn"/><s n="pl"/><s n="ins"/><s n="f"/></r>
+        </p></e>
+        <e><p>
+                <l>lYigeV</l>
+				<r>lYu<s n="pn"/><s n="sg"/><s n="dat"/><s n="f"/></r>
+		</p></e>
+		<e><p>
+                <l>lYigAgi</l>
+				<r>lYu<s n="pn"/><s n="sg"/><s n="dat"/><s n="f"/></r>
+		</p></e>
+		<e><p>
+                <l>lYigoskara</l>
+				<r>lYu<s n="pn"/><s n="sg"/><s n="dat"/><s n="f"/></r>
+		</p></e>		
+        <e><p>
+                <l>rigeV</l>
+				<r>lYu<s n="pn"/><s n="pl"/><s n="dat"/><s n="f"/></r>
+		</p></e>
+		<e><p>
+                <l>rigAgi</l>
+				<r>lYu<s n="pn"/><s n="pl"/><s n="dat"/><s n="f"/></r>
+		</p></e>
+		<e><p>
+                <l>rigoskara</l>
+				<r>lYu<s n="pn"/><s n="pl"/><s n="dat"/><s n="f"/></r>
+		</p></e>		
+		<e><p>
+                <l>lYa deVseVyiMxa</l>
+                <r>lYu<s n="pn"/><s n="sg"/><s n="abl"/><s n="f"/></r>
+        </p></e>
+		<e><p>
+                <l>lYiMxa</l>
+                <r>lYu<s n="pn"/><s n="sg"/><s n="abl"/><s n="f"/></r>
+        </p></e>
+        <e><p>
+                <l>ra deVseVyiMxa</l>
+                <r>lYu<s n="pn"/><s n="pl"/><s n="abl"/><s n="f"/></r>
+        </p></e>
+		<e><p>
+                <l>riMxa</l>
+                <r>lYu<s n="pn"/><s n="pl"/><s n="abl"/><s n="f"/></r>
+        </p></e>
+		<e><p>
+                <l>lYa</l>
+                <r>lYu<s n="pn"/><s n="sg"/><s n="gen"/><s n="f"/></r>
+        </p></e>
+        <e><p>
+                <l>ra</l>
+                <r>lYu<s n="pn"/><s n="pl"/><s n="gen"/><s n="f"/></r>
+        </p></e>
+		<e><p>
+                <l>lYalli</l>
+                <r>lYu<s n="pn"/><s n="sg"/><s n="loc"/><s n="f"/></r>
+        </p></e>
+        <e><p>
+                <l>ralli</l>
+                <r>lYu<s n="pn"/><s n="pl"/><s n="loc"/><s n="f"/></r>
+        </p></e>		
+        <e><p>
+                <l>lYe</l>
+                <r>lYu<s n="pn"/><s n="sg"/><s n="voc"/><s n="f"/></r>
+        </p></e>
+		<e><p>
+                <l>re</l>
+                <r>nu<s n="pn"/><s n="pl"/><s n="voc"/><s n="f"/></r>
+        </p></e>
+</pardef>
+
+<pardef n="Awa/_pn">
+        <e><p>
+                <l>nu</l>
+                <r><s n="pn"/><s n="sg"/><s n="nom"/><s n="m"/></r>
+        </p></e>
+        <e><p>
+                <l>nannu</l>
+                <r><s n="pn"/><s n="sg"/><s n="acc"/><s n="m"/></r>
+        </p></e>
+        <e><p>
+                <l>niMxa</l>
+                <r><s n="pn"/><s n="sg"/><s n="ins"/><s n="m"/></r>
+        </p></e>
+        <e><p>
+                <l>nigeV</l>
+				<r><s n="pn"/><s n="sg"/><s n="dat"/><s n="m"/></r>
+		</p></e>
+		<e><p>
+                <l>nigAgi</l>
+				<r><s n="pn"/><s n="sg"/><s n="dat"/><s n="m"/></r>
+		</p></e>
+		<e><p>
+                <l>nigoskara</l>
+				<r><s n="pn"/><s n="sg"/><s n="dat"/><s n="m"/></r>
+		</p></e>
+		
+		<e><p>
+                <l>na deVseVyiMxa</l>
+                <r><s n="pn"/><s n="sg"/><s n="abl"/><s n="m"/></r>
+        </p></e>
+		<e><p>
+                <l>na</l>
+                <r><s n="pn"/><s n="sg"/><s n="gen"/><s n="m"/></r>
+        </p></e>
+        
+		<e><p>
+                <l>nalli</l>
+                <r><s n="pn"/><s n="sg"/><s n="loc"/><s n="m"/></r>
+        </p></e>
+        		
+        <e><p>
+                <l>ne</l>
+                <r><s n="pn"/><s n="sg"/><s n="voc"/><s n="m"/></r>
+        </p></e>
+</pardef>
+<pardef n="AkeV/_pn">
+        <e><p>
+                <l>yu</l>
+                <r><s n="pn"/><s n="sg"/><s n="nom"/><s n="f"/></r>
+        </p></e>
+        <e><p>
+                <l>yannu</l>
+                <r><s n="pn"/><s n="sg"/><s n="acc"/><s n="f"/></r>
+        </p></e>
+        <e><p>
+                <l>yiMxa</l>
+                <r><s n="pn"/><s n="sg"/><s n="ins"/><s n="f"/></r>
+        </p></e>
+        <e><p>
+                <l>geV</l>
+				<r><s n="pn"/><s n="sg"/><s n="dat"/><s n="f"/></r>
+		</p></e>
+		<e><p>
+                <l>gAgi</l>
+				<r><s n="pn"/><s n="sg"/><s n="dat"/><s n="f"/></r>
+		</p></e>
+		<e><p>
+                <l>goskara</l>
+				<r><s n="pn"/><s n="sg"/><s n="dat"/><s n="f"/></r>
+		</p></e>
+		
+		<e><p>
+                <l>ya deVseVyiMxa</l>
+                <r><s n="pn"/><s n="sg"/><s n="abl"/><s n="f"/></r>
+        </p></e>
+		<e><p>
+                <l>ya</l>
+                <r><s n="pn"/><s n="sg"/><s n="gen"/><s n="f"/></r>
+        </p></e>
+        
+		<e><p>
+                <l>yalli</l>
+                <r><s n="pn"/><s n="sg"/><s n="loc"/><s n="f"/></r>
+        </p></e>
+        		
+        <e><p>
+                <l>ye</l>
+                <r><s n="pn"/><s n="sg"/><s n="voc"/><s n="f"/></r>
+        </p></e>
+</pardef>
+
+</pardefs>
+<section id="main" type="standard">
+<e lm="nAnu"><i>n</i><par n="n/Anu_pn"/></e>
+<e lm="nInu"><i>n</i><par n="n/Inu_pn"/></e>
+<e lm="avanu"><i>ava</i><par n="ava/nu_pn"/></e>
+<e lm="avalYu"><i>ava</i><par n="ava/lYu_pn"/></e>
+<e lm="axu"><i>a</i><par n="a/xu_pn"/></e>
+<e lm="ixu"><i>i</i><par n="i/xu_pn"/></e>
+<e lm="ivanu"><i>iva</i><par n="iva/nu_pn"/></e>
+<e lm="ivalYu"><i>iva</i><par n="iva/lYu_pn"/></e>
+<e lm="Awa"><i>Awa</i><par n="Awa/_pn"/></e>
+<e lm="Iwa"><i>Iwa</i><par n="Awa/_pn"/></e>
+<e lm="AkeV"><i>AkeV</i><par n="AkeV/_pn"/></e>
+<e lm="IkeV"><i>IkeV</i><par n="AkeV/_pn"/></e>
+
+</section>
+</dictionary>
